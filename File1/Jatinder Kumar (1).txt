@@ -1,0 +1,39 @@
+﻿Title : Jatinder Kumar
+
+
+Q1.Write Details Slack Messages?
+
+
+Subject: Need Help with Test Case Prioritization in Regression Testing. 
+Hello, Shiva Kumar MG Sir,
+I have a doubt about how to prioritize test cases in regression testing. I understand that regression testing ensures new changes don’t break existing features, but I’m unsure how to decide which test access to run first.
+For example, in an application with login, payment, and profile management features, should we always test payment first because it’s critical? Or does the priority depend on what was recently changed? Also, if some test cases take longer to run, should they be given lower priority?
+I’d really appreciate some simple guidelines or examples to help you understand this better. Looking forward to your help!
+Thanks,
+Jatinder Kumar
+
+
+Q2.Write a positive Slack message.
+
+
+Hi, Shiva Kumar MG Sir,
+I just wanted to say thank you for making the Software Testing so engaging and easy to understand. Your way of explaining things really helps, especially when breaking down complex topics into simple steps. I appreciate how you focus on real-world coding practices, which makes learning feel more practical and useful.
+The hands-on projects and live coding sessions have boosted my confidence, and I can my skills improving every day. I also love how patient you are in answering our questions it makes a big difference!
+I’m really enjoying the course and excited to keep learning. Thanks for your support and guidance!
+Best,
+Jatinder Kumar
+
+
+Q3.write Professional Email?
+
+
+Subject: Inquiry About Internship Opportunities
+Dear Rohit Sir,
+I hope you are doing well. My name is Jatinder Kumar and I am currently studying software testing at Masai School. I am interested in learning more about internship opportunities at XYZ Company.
+I have experience with software testing and would love to apply my skills in real-world setting. I believe an internship at your company would help me grow and contribute effectively.
+
+
+Thanks you for your time. I look forward to your response.
+Best regards,
+Jatinder Kumar
+Mobile No.6006445575
